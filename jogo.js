@@ -1,5 +1,3 @@
-// Trabalho Realizado por Rui Araujo 30118
-// Sistemas Multimédia Interativos - DWM 1º Ano
 // Variáveis globais
 var highScore = 0; // Armazena a pontuação mais alta alcançada pelo jogador
 var scoreBank = 0; // Banco de pontos que o jogador pode gastar em upgrades
