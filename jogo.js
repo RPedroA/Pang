@@ -58,7 +58,7 @@ class Menu extends Phaser.Scene {
 
     // Adiciona o título do jogo
     const Title = this.add
-      .text(this.game.config.width / 2, 100, "Pang", {
+      .text(this.game.config.width / 2, 100, "PangJS", {
         fontSize: "64px",
         fill: "#ffffff",
       })
